@@ -1,0 +1,3 @@
+load the Linear_Regression class to colab, then execute:
+
+from Linear_Regression import Linear_Regression 
